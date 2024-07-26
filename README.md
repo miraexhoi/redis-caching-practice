@@ -1,4 +1,4 @@
-# redis-caching-practice
+# Redis
 
 [인메모리 데이터 구조 저장소 Redis란?](https://github.com/miraexhoi/study/blob/master/Back-End/DBMS/redis.md)
 
